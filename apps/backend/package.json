@@ -17,3 +17,4 @@
     "redis:flush": "echo \"Redis maintenance scripts will be implemented later.\""
   }
 }
+"auth:test": "echo \"Authentication tests will be added later.\""
