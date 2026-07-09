@@ -1,0 +1,19 @@
+{
+  "name": "musabmine-os",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MusabMine OS (MMOS) Enterprise Monorepo",
+  "license": "UNLICENSED",
+  "packageManager": "pnpm@10",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "echo \"Development bootstrap will be added in later steps.\"",
+    "build": "echo \"Build pipeline will be added in later steps.\"",
+    "test": "echo \"Testing pipeline will be added in later steps.\"",
+    "lint": "echo \"Lint configuration will be added in later steps.\"",
+    "format": "echo \"Formatting configuration will be added in later steps.\"",
+    "clean": "echo \"Cleanup scripts will be added in later steps.\""
+  }
+}
