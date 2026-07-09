@@ -1,4 +1,9 @@
-"scripts": {
+{
+  "name": "@mmos/backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MMOS Backend",
+  "scripts": {
     "start": "nest start",
     "start:dev": "nest start --watch",
     "build": "nest build",
@@ -9,3 +14,4 @@
     "prisma:studio": "prisma studio",
     "prisma:seed": "echo \"Seed scripts will be added later.\""
   }
+}
