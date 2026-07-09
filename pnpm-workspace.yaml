@@ -1,0 +1,8 @@
+```yaml
+packages:
+
+"apps/*"
+
+"packages/*"
+
+"services/*"
