@@ -16,5 +16,7 @@
     "redis:health": "echo \"Redis health checks will be implemented later.\"",
     "redis:flush": "echo \"Redis maintenance scripts will be implemented later.\"",
     "auth:test": "echo \"Authentication tests will be added later.\""
+    "auth:test": "echo \"Authentication tests will be added later.\"",
+    "socket:test": "echo \"Socket.IO integration tests will be added later.\""
   }
 }
