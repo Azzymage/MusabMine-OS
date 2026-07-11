@@ -19,6 +19,8 @@
     "socket:test": "echo \"Socket.IO integration tests will be added later.\"",
     "miner:scan": "echo \"Miner discovery will be implemented later.\"",
     "miner:test": "echo \"Universal Miner Engine tests will be added later.\"",
-    "dashboard:test": "echo \"Dashboard tests will be implemented later.\""
+    "dashboard:test": "echo \"Dashboard tests will be implemented later.\"",
+    "discovery:test": "echo \"Discovery pipeline tests will be implemented later.\"",
+    "worker:test": "echo \"Background worker tests will be implemented later.\""
   }
 }
