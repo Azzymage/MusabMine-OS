@@ -1,0 +1,1 @@
+export const SOCKET_GATEWAY = 'SOCKET_GATEWAY';
